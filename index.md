@@ -9,8 +9,9 @@ show_tile: false
 ---
 
 
-Major Subheadings:
+Major Subheadings:  
 Workbook  
+<a href="https://jeremynixon.github.io/creativity/2018/06/09/systematizing-creativity-models-and-techniques.html">Models and Techniques</a>  
 Blog Posts  
 The Creativity Literature
 
