@@ -1,8 +1,8 @@
 # site settings
-title: Institute for Systematizing Creativity
+title: Creativity
 subtitle: by the Institute for Systematizing Creativity
 email: spoof@spoofmail.com
-description: Sign up for our next workshop
+description: Sign up for our next workshop:
 baseurl: # the subpath of your site, e.g. /blog — works if removed 
 url: # the base hostname & protocol for your site — works if removed
 author:
