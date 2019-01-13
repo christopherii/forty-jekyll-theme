@@ -6,11 +6,11 @@ description: Sign up for our next workshop
 baseurl: # the subpath of your site, e.g. /blog — works if removed 
 url: # the base hostname & protocol for your site — works if removed
 author:
-street_address: 450 Pepper Ave.
-city: Palo Alto
-state: CA
-zip_code: 94306
-country: United States of America
+# street_address: 450 Pepper Ave.
+# city: Palo Alto
+# state: CA
+# zip_code: 94306
+# country: United States of America
 
 # homepage tiles
 tiles-source: pages # accepts "posts" or "pages"
