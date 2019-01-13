@@ -1,5 +1,5 @@
 ﻿---
-layout: page
+layout: post
 title: Who We Are
 landing-title: 'Who We Are'
 nav-menu: true
