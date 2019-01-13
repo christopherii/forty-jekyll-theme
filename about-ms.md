@@ -1,6 +1,6 @@
 ﻿---
 layout: page
-title: about-us
+title: Who We Are
 landing-title: 'Who We Are'
 nav-menu: true
 description: null
