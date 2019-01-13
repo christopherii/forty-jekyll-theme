@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: Institute for Systematizing Creativity
+landing-title: The Institute for Systematizing Creativity
 description: Revel in the Moment of Creation
 image: null
 author: null
