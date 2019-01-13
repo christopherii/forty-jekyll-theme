@@ -12,18 +12,12 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h1>Mission</h1>
+			<h1>Elements</h1>
 		</header>
 
 <!-- Content -->
-<h2 id="content">Mission</h2>
-<p>Our mission is the creation of creatives.
-
-To isolate and refine the most powerful creative motions made by human minds.
-
-To be able to teach, with clarity and precision, how to execution those motions on any target worthy of creative transformation.
-
-We are on The Path. Join us.</p>
+<h2 id="content">Sample Content</h2>
+<p>No one man should have all that power. The clocks ticking. Tic, tic, tic. Praesent ac adipiscing ullamcorper semper ut amet ac risus. Lorem sapien ut odio odio nunc. Ac adipiscing nibh porttitor erat risus justo adipiscing adipiscing amet placerat accumsan. Vis. Faucibus odio magna tempus adipiscing a non. In mi primis arcu ut non accumsan vivamus ac blandit adipiscing adipiscing arcu metus praesent turpis eu ac lacinia nunc ac commodo gravida adipiscing eget accumsan ac nunc adipiscing adipiscing.</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
