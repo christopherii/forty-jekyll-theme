@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Mission
+title: Elements
 nav-menu: true
 ---
 
