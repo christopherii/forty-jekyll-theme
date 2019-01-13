@@ -9,8 +9,6 @@ author: null
 show_tile: false
 ---
 
-# Who we are
-
 ### Jeremy Nixon
 Researcher @ Google Brain. Applied Mathematics / Computer Science / Economics @ Harvard. Top 10 in the nation: college Ultimate Frisbee Callahan. Creator of a distributed deep learning library for Spark. Writing *Abstraction*. His research focuses on meta-learning, representation learning, causality, safety.
   
