@@ -1,72 +1,18 @@
 ﻿---
-title: Workbook
-layout: landing
-description: 'Prepared, for the moment<br /> when your Gods die and reality breaks in your hands.'
-image: assets/images/pic07.jpg
+layout: page
+title: Who We Are
+landing-title: 'Who We Are'
 nav-menu: true
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
-<!-- Main -->
-<div id="main">
+# Who we are
 
-<!-- One -->
-<section id="one">
-	<div class="inner">
-		<header class="major">
-			<h2>Systematizing Creativity</h2>
-		</header>
-		<p>Have we started the fire? <br> Yes! The fire rises.</p>
-	</div>
-</section>
-
-<!-- Two -->
-<section id="two" class="spotlights">
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic08.jpg" alt="" data-position="center center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Abstraction</h3>
-				</header>
-				<p>Abstraction’s power is to allow the wielder to represent huge amounts of information in a single object. Layers of abstraction allow the entire universe to be summarized by a single node, on top of a hierarchy of lower level representations. The tool is dangerous, making ideas inaccessible and hiding distorted information. It’s foundational to the way that we think. This book is about how Abstraction operates. How it allows us to create, to analogize, and to build knowledge out of information.</p>
-				<ul class="actions">
-					<!-- <li><a href="generic.html" class="button">Learn more</a></li> -->
-				</ul>
-			</div>
-		</div>
-	</section>
-	<section>
-		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
-		</a>
-		<div class="content">
-			<div class="inner">
-				<header class="major">
-					<h3>Decomposition</h3>
-				</header>
-				<p>One powerful generative motion is to take a whole and divide it into its sub-parts. Once cut up, the sub-parts can be recombined, solved individually, maximized over, or even recursively decomposed.</p>
-				<ul class="actions">
-					<!-- <li><a href="generic.html" class="button">Learn more</a></li> -->
-				</ul>
-			</div>
-		</div>
-	</section>
-</section>
-
-<!-- Three -->
-<section id="three">
-	<div class="inner">
-		<header class="major">
-			<h2>Become Generative</h2>
-		</header>
-		<p>By decomposing the processes that generate your most valuable thoughts and breakthroughs, you can design a powerful conceptual toolkit aligned with your current creative style.</p>
-		<ul class="actions">
-			<!-- <li><a href="generic.html" class="button next">Get Started</a></li> -->
-		</ul>
-	</div>
-</section>
-
-</div>
-
+### Jeremy Nixon
+Researcher @ Google Brain. Applied Mathematics / Computer Science / Economics @ Harvard. Top 10 in the nation: college Ultimate Frisbee Callahan. Creator of a distributed deep learning library for Spark. Writing *Abstraction*. His research focuses on meta-learning, representation learning, causality, safety.
+  
+### Christopher Read
+Machine Learning & Data Science @ Brex. History @ Harvard. Top 10 in the nation: most perfect AP scores. Founder-CEO-CTO @ Legion, a machine learning cryptocurrency trading firm. Founder @ Archangel. Writing *Ambition*. He works on “suffering from a respectable delusion.”
