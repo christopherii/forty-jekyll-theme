@@ -1,7 +1,7 @@
 ---
 layout: post
 title: See All of the Options
-description: Execute. <br> With the Ontology of Creative Knowledge as your Foundation
+description: Execute. <br> With deep creativity at your Foundation.
 image: assets/images/pic11.jpg
 nav-menu: false
 show_tile: true

@@ -1,7 +1,7 @@
 ---
 title: Workbook
 layout: landing
-description: 'Prepared, for the moment<br /> when you've killed your Gods <br />and must transcend simply to appear worthy of it.'
+description: 'Prepared, for the moment<br /> when your Gods die and reality breaks in your hands.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
