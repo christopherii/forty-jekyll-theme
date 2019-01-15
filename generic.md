@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Generic
-description: Lorem ipsum dolor est
+description: See All of the Options
 image: assets/images/pic11.jpg
 nav-menu: false
 show_tile: true
