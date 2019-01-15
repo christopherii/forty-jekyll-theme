@@ -1,6 +1,6 @@
 ---
 layout: allposts
-title: All posts
+title: Blog
 landing-title: 'Blog'
 nav-menu: true
 description: null
