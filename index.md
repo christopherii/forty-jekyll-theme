@@ -9,10 +9,10 @@ show_tile: false
 ---
 
 
-<a href="https://jeremynixon.github.io/creativity/2018/06/09/systematizing-creativity-models-and-techniques.html">Models and Techniques</a>
-<a href="https://jeremynixon.github.io/creativity/2018/06/18/decomposition.html">Decomposition</a>
-<a href="https://jeremynixon.github.io/creativity/2018/06/12/recombination.html">Recombination</a>
-<a href="https://jeremynixon.github.io/creativity/2018/06/12/abstract-and-generalize.html">Abstraction</a>
+<a href="https://jeremynixon.github.io/creativity/2018/06/09/systematizing-creativity-models-and-techniques.html">Models and Techniques</a>  
+<a href="https://jeremynixon.github.io/creativity/2018/06/18/decomposition.html">Decomposition</a>  
+<a href="https://jeremynixon.github.io/creativity/2018/06/12/recombination.html">Recombination</a>  
+<a href="https://jeremynixon.github.io/creativity/2018/06/12/abstract-and-generalize.html">Abstraction</a>  
 <!-- Blog Posts  
 The Creativity Literature -->
 
