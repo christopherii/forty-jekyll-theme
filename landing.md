@@ -1,7 +1,7 @@
 ---
 title: Workbook
 layout: landing
-description: 'Prepared, for the moment<br /> when you've killed God and must ascend to become worthy of it.'
+description: 'Prepared, for the moment<br /> when you've killed God and must replace him.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
