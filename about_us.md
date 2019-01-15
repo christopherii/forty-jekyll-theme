@@ -3,9 +3,6 @@ layout: post
 title: Who We Are
 landing-title: 'Who We Are'
 nav-menu: true
-description: null
-image: null
-author: null
 show_tile: true
 ---
 
