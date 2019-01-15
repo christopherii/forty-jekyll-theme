@@ -1,7 +1,7 @@
 ---
 layout: post
 title: See All of the Options
-description: Execute Through the Structure of Creative Knowledge
+description: Execute with the Ontology of Creative Knowledge as your Foundation
 image: assets/images/pic11.jpg
 nav-menu: false
 show_tile: true
