@@ -32,7 +32,7 @@ nav-menu: true
 				</header>
 				<p>Abstraction’s power is to allow the wielder to represent huge amounts of information in a single object. Layers of abstraction allow the entire universe to be summarized by a single node, on top of a hierarchy of lower level representations. The tool is dangerous, making ideas inaccessible and hiding distorted information. It’s foundational to the way that we think. This book is about how Abstraction operates. How it allows us to create, to analogize, and to build knowledge out of information.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<!-- <li><a href="generic.html" class="button">Learn more</a></li> -->
 				</ul>
 			</div>
 		</div>
@@ -48,7 +48,7 @@ nav-menu: true
 				</header>
 				<p>One powerful generative motion is to take a whole and divide it into its sub-parts. Once cut up, the sub-parts can be recombined, solved individually, maximized over, or even recursively decomposed.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<!-- <li><a href="generic.html" class="button">Learn more</a></li> -->
 				</ul>
 			</div>
 		</div>
@@ -63,7 +63,7 @@ nav-menu: true
 		</header>
 		<p>By decomposing the processes that generate your most valuable thoughts and breakthroughs, you can design a powerful conceptual toolkit aligned with your current creative style.</p>
 		<ul class="actions">
-			<li><a href="generic.html" class="button next">Get Started</a></li>
+			<!-- <li><a href="generic.html" class="button next">Get Started</a></li> -->
 		</ul>
 	</div>
 </section>
