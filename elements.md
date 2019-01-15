@@ -1,5 +1,5 @@
 ---
-layout: page
+<!-- layout: page -->
 title: Elements
 nav-menu: true
 ---
