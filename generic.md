@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Generic
-description: See All of the Options
+title: See All of the Options
+description: Execute Through the Structure of Creative Knowledge
 image: assets/images/pic11.jpg
 nav-menu: false
 show_tile: true
