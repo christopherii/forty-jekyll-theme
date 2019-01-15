@@ -3,7 +3,10 @@ layout: post
 title: Who We Are
 landing-title: 'Who We Are'
 nav-menu: true
-show_tile: true
+description: null
+image: null
+author: null
+show_tile: false
 ---
 
 ### Jeremy Nixon
