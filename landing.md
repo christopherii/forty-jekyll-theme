@@ -1,7 +1,7 @@
 ---
 title: Workbook
 layout: landing
-description: 'Prepared, for the moment<br /> when your Gods have been killed.'<br /> And you must become worthy of having killed them.
+description: 'Prepared, for the moment<br /> when your must replace your creator.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
