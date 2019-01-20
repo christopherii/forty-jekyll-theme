@@ -3,6 +3,7 @@ layout: post
 title: Creating a Creativity Framework
 description: Creating a Creativity Framework
 image: assets/images/pic07.jpg
+date:   2019-01-19 11:58:00 -0700
 ---
 
 One fascinating experience is to carefully watch a brilliant mind generate creative ideas, and then to 1. through seeing patterns and similarities among the generated ideas, categorize them and 2. create categories for the thought processes or mental motions that generated the ideas.

@@ -3,6 +3,7 @@ layout: post
 title: Generating Generators
 description: Generating Generators
 image: assets/images/pic08.jpg
+date:   2019-01-20 6:45:00 -0700
 ---
 
 There’s an algorithm for generating systematizing creativity that I like to describe as to carefully watch a brilliant mind generate creative ideas, and then to 1. through seeing patterns and similarities among the generated ideas, categorize them and 2. create categories for the thought processes or mental motions that generated the ideas.
