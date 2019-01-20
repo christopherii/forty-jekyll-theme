@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Generating Generators
+title: Creating a Creativity Framework
 description: Creating a Creativity Framework
 image: assets/images/pic07.jpg
 ---
@@ -12,12 +12,12 @@ Quality examples of mental motions include:
 - Abstract & Generalization, Transfer - What is the most general form of this - idea? What other cases can this apply to?  
 - Decompose - Ex., Break the concept down into its sub-concepts, break a situation into sub-cases, or add nuance through introducing a conditional.  
 - Assumption Questioning  
-    Ontology / Paradigm Questioning (There’s an interconnected memeplex of assumptions)  
-    Breakdown of Categories (seeing their brokenness, oneness, or decomposition)  
+    * Ontology / Paradigm Questioning (There’s an interconnected memeplex of assumptions)  
+    * Breakdown of Categories (seeing their brokenness, oneness, or decomposition) 
 - Relatedness / Transfer / Cognitive Fit with something else  
 - Prediction / Anticipation of outcome  
 - Understand - Explain a part of the system that I don’t know about, resulting from a failed prediction or a sparse decomposition that I want filled  
-- Identify the generator of the thought or intuition  
+- Identify the generator of the thought or intuition - why did this person think that thought?  
 - Distinction (or introduce conditional)  
 - Actions Taken as a Result  
 
