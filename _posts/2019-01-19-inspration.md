@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Creating a Creativity Framework
+title: Generating Generators
 description: Creating a Creativity Framework
 image: assets/images/pic07.jpg
 ---
