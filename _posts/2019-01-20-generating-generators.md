@@ -3,7 +3,7 @@ layout: post
 title: Generating Generators
 description: Generating Generators
 image: assets/images/pic08.jpg
-date:   2019-01-20 6:45:00 -0700
+date:   2019-01-20 06:45
 ---
 
 There’s an algorithm for generating systematizing creativity that I like to describe as to carefully watch a brilliant mind generate creative ideas, and then to 1. through seeing patterns and similarities among the generated ideas, categorize them and 2. create categories for the thought processes or mental motions that generated the ideas.
@@ -12,7 +12,7 @@ Those are two generators of generators.
 What else exists?
 (Note, these are general enough to be meta-generators)
 
-1. Categorize ideas with some pattern or notion of similarity. Use the examples to install the pattern, and look for the pattern elsewhere. 
+1. Categorize ideas using some pattern or notion of similarity. Use the examples to install the pattern, and look for the pattern elsewhere. 
 2. Decompose a given pattern, seeing its variants, properties and types. Explicitly try to turn the pattern itself into a generator, as well as all of its decomposed variants.
 3. Recombine your generators with one another
 * Ex., what is the most general version of recombination?
