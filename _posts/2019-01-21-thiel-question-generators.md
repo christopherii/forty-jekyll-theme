@@ -1,3 +1,8 @@
+---
+layout: post
+title: Generating Thiel Answers
+---
+
 The Thiel Question — what is a truth very few people agree with you on — is a fantastic descriptor of contrarian truth, and a terrible generator. Here are some generators for the next time Thiel appears out of nowhere to stump you:
 
   
