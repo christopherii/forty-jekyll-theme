@@ -1,5 +1,5 @@
 ---
-layout: post
+layout: page
 title: Generating Generators
 description: Generating Generators
 image: assets/images/pic08.jpg
