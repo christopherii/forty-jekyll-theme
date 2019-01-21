@@ -1,0 +1,11 @@
+Let's run through this 'header'.
+
+---
+layout: allposts
+title: Blog
+landing-title: 'All posts'
+---
+
+layout. Format in _layouts is followed
+title. Title you see
+landing-title. Determines what the html link is
