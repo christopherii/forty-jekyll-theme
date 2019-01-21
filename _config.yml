@@ -4,7 +4,7 @@ subtitle: by the Institute for Systematizing Creativity
 email: systematizingcreativity@gmail.com
 description: Revel in the Moment of Creation.
 baseurl: # the subpath of your site, e.g. /blog — works if removed 
-url: # the base hostname & protocol for your site — works if removed
+url: ""# the base hostname & protocol for your site — works if removed
 author:
 # street_address: 450 Pepper Ave.
 # city: Palo Alto
