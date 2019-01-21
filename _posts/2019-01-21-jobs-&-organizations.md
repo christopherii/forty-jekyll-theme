@@ -1,5 +1,4 @@
 
-# Jobs & Organizations
 
 Getting a job is part of the general class of problems of getting into an organization. We relate those options here.
 

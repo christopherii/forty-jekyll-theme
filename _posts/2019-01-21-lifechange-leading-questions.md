@@ -1,7 +1,3 @@
-# Lifechange Leading Questions
-
-
-
 What we call learning is a pale imitation of generation. Knowing a thing is different from being able to do the thing — though the best way to know a thing is often to do it.
 
   

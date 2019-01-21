@@ -1,6 +1,3 @@
-# How to Seem Clever
-
-
 Sampling over a high-variance distribution lets you hide mistakes, losses, bad outcomes, unluckiness, wild failures and capture the gains of successes, well-thought plans, luck, and wild victories. If failures are hidden and successes visible, this gives the appearance of brilliance. The greater the variance and the more sampling, the greater the brilliance. You take the best of what has been figured out and leave the rest, as in:
 
 
