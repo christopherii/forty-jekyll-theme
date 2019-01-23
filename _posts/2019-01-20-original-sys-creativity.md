@@ -2,6 +2,7 @@
 layout: post
 title: The Original Systematizing Creativity
 description: The Original Systematizing Creativity
+image: assets/images/pic07.jpg
 date:   2019-01-20 06:40
 ---
 
