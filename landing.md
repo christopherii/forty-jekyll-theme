@@ -10,14 +10,14 @@ nav-menu: true
 <div id="main">
 
 <!-- One -->
-<section id="one">
+<!-- <section id="one">
 	<div class="inner">
 		<header class="major">
 			<h2>Systematizing Creativity</h2>
 		</header>
 		<p>Have we started the fire? <br> Yes! The fire rises.</p>
 	</div>
-</section>
+</section> -->
 
 <!-- Two -->
 <section id="two" class="spotlights">
@@ -59,7 +59,7 @@ nav-menu: true
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2><a href="https://www.syscreativity.com/2019/01/20/generating-generators">Become Generative<a></h2>
+			<h2><a href="https://www.syscreativity.com/2019/01/20/generating-generators">Become Generative</a></h2>
 		</header>
 		<p>By decomposing the processes that generate your most valuable thoughts and breakthroughs, you can design a powerful conceptual toolkit aligned with your current creative style.</p>
 		<ul class="actions">

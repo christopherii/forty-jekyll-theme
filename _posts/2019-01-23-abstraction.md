@@ -2,7 +2,7 @@
 layout: post
 title: Abstraction & Generalization
 description: Abstraction & Generalization
-image: assets/images/pic08.jpg
+image: assets/images/pic07.jpg
 ---
 
 The ability to create and think with concepts is of the most powerful advantages of human cognition.
