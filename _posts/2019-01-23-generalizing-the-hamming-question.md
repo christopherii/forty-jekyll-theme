@@ -1,4 +1,3 @@
-
 ---
 layout: post
 title: Generalizing the Hamming Question
@@ -16,4 +15,4 @@ What are the most important problems in your life?
 
 What are the limiting factors on you being order of magnitude greater than you are?
 
-What are you going to do about them?
+And what are you going to do about them?

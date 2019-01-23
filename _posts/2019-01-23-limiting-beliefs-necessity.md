@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Limiting Beliefs: Necessity
+title: Limiting Beliefs - Necessity
 image: assets/images/pic10.jpg
 ---
 
