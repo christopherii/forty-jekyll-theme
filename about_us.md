@@ -17,10 +17,8 @@ In a bid to become uncompressible, Jeremy maximized his worldview for valuable s
 Researcher @ Google Brain. Applied Mathematics / Computer Science / Economics @ Harvard. Top 10 in the nation in college Ultimate Frisbee Callahan voting. Creator of a distributed deep learning library for Spark. Writing *Abstraction*. His research focuses on meta-learning, representation learning, causality, safety.
   
 ### Christopher Read
-Too, too much bloodless abstraction, disembodied skull — dead bone. We are all sculptors of self. Where is this thing you say you are? In this age of abundance, where the demand of survival have given way to the need for restraint, where the ignorant have given way to the over-educated, where the hungry have given way to the bloated and rotund, the critical task is judgment — judgment under endless choice! It is the ultimate choice to decide on a self. It is the last question, the only real, at-bottom question: how do you become what you are?
+Say that we are all sculptors of self. Do we not, in clear moments, feel those bloodless abstractions, those pale imitations of life, those constructions of mind, that self-disembodied head and dead bone, which ground out _nowhere_. You say you are such-and-such a person, as if even our greatest archaeologists could find you!
 
-An impossibly high-dimensional problem, the second most complicated problem in existence. This problem, like all problems, is a problem of information. It has a structure. There is a law. And to know these laws is to literally recreate the world at will. It is to solve the problem of problems.
-
-Christopher seeks these laws.
+But more seriously, how to become what you are is one difficult instance of a high-dimensional problem — the highest or second highest, and good fodder. Like all problems, it can be cast as an abstract structure. These structures operate according to laws. To know the laws is to answer the only real, at-bottom question: solving the problem of problems. Christopher is constructing a solution.
 
 Machine Learning & Data Science @ Brex. History @ Harvard. Top 10 in the nation: most perfect AP scores. Founder-CEO-CTO @ Legion, a machine learning cryptocurrency trading outfit. Founder @ Archangel, a venture capital firm. Writing *Ambition*. He works towards “suffering from a respectable delusion.”
