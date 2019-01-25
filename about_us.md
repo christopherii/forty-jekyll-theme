@@ -19,6 +19,8 @@ Researcher @ Google Brain. Applied Mathematics / Computer Science / Economics @ 
 ### Christopher Read
 Too, too much bloodless abstraction, disembodied skull — dead bone. We are all sculptors of self. Where is this thing you say you are? In this age of abundance, where the demand of survival have given way to the need for restraint, where the ignorant have given way to the over-educated, where the hungry have given way to the bloated and rotund, the critical task is judgment — judgment under endless choice! It is the ultimate choice to decide on a self. It is the last question, the only real, at-bottom question: how do you become what you are?
 
-An impossibly high-dimensional problem, the second most complicated problem in existence. This problem, like all problems, is a problem of information. It has a structure. There is a law. And to know these laws is to literally recreate the world at will. It is to solve the problem of problems. Christopher seeks these laws.
+An impossibly high-dimensional problem, the second most complicated problem in existence. This problem, like all problems, is a problem of information. It has a structure. There is a law. And to know these laws is to literally recreate the world at will. It is to solve the problem of problems.
+
+Christopher seeks these laws.
 
 Machine Learning & Data Science @ Brex. History @ Harvard. Top 10 in the nation: most perfect AP scores. Founder-CEO-CTO @ Legion, a machine learning cryptocurrency trading outfit. Founder @ Archangel, a venture capital firm. Writing *Ambition*. He works towards “suffering from a respectable delusion.”
