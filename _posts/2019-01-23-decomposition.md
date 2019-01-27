@@ -21,4 +21,33 @@ Algorithmically, decomposition is ubiquitous. [Divide and conquer algorithms], s
 Naturally, we should decompose decomposition itself. One way is by asking about the properties of our decomposition: is it mutually exclusive? (No overlap between categories?) is it collectively exhaustive? (do we capture all of the decomposed object in our sup-parts?) Do we end at the conceptual level or the concrete, object level? Those properties can serve as guides for the strengths and weaknesses of a particular decomposition.
 
 Decomposition can be thought of as inverting abstraction. Where abstraction is compressive, decomposition is generative. Where abstraction goes from the concrete towards the conceptual, decomposition goes from the conceptual towards the concrete.
+
+
+One valuable form of decomposition is over a concept.
+
+These concepts can be broken down into their parts. These parts can be further subdivided. We can then solve, think, or recombine these parts. This also lets us take advantage of levels of analysis/abstraction.
+
+For example, most disagreements can be solved by decomposition. Two people talk about love, but one means brotherly love and one means romance. Obviously these are not the same. Higher-level concepts shroud reality. If we decomposed into the set of meanings that are aggregated under the concept of love, often there is no argument. Novel words or variants of words are often an output.
+
+The rationalist community has a specific case of decomposition. If a tree falls in a forest does it make a sound. Decompose sound: do you mean vibrations in the air or the perception of sound by some creature feeling those vibrations? The answer is obvious at this level.
+
+Words that derive their power from being an amalgam of concepts, with multiple meanings — nation, truth, family, identity — are good targets for decomposition: we can actually decide to talk about a particular thing.
+
+Take a concept, quality target, self-generated idea, or prompt rich with ambiguity and decompose it. Ask: what are the sub-pieces of X? If stuck, consult leading questions. Example: How would a Y person thing about X?
+
+Leading Questions for Conceptual Decomposition:  
+1. What are all of the ways in which the concept is used?  
+2. How is the way we use the concept misleading?  
+* What other valuable conceptual schemes are we pushed off of?  
+3. What is insufficient about the concept?  
+4. What gives the concept its value?  
+5. What are many examples of the concept, and how to they differ from one another? What is truly invariant across them?  
+6. Is the concept part of a larger conceptual scheme? What concepts does it block, or support?  
+7. What is the simplest possible version of the concept? The most complex version?  
+8. What are all of the definitions that exist?  
+9. What is the concept often conflated with?  
+10. What major assumptions does applying or using the concept make? When do these assumptions differ from reality?  
+11. What are the differences between the concept in its breath and the particulars of its instantiation?  
+
+
 <br>
