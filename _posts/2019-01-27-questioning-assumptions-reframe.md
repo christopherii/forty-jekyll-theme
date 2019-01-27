@@ -2,7 +2,7 @@
 layout: post
 title: Questioning Assumptions & Reframes
 description: Questioning Assumptions & Reframes
-image: assets/images/pic12.jpg
+image: assets/images/pic02.jpg
 ---
 
 Our mind implicitly assumes a solution space. This solution space may not be optimal. We can reframe the solution space by explicitly playing with assumptions. Assumptions like:
