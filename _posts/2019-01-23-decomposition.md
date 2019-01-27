@@ -38,7 +38,7 @@ Take a concept, quality target, self-generated idea, or prompt rich with ambigui
 Leading Questions for Conceptual Decomposition:  
 1. What are all of the ways in which the concept is used?  
 2. How is the way we use the concept misleading?  
-* What other valuable conceptual schemes are we pushed off of?  
+* What other valuable conceptual schemes are we pushed off of?
 3. What is insufficient about the concept?  
 4. What gives the concept its value?  
 5. What are many examples of the concept, and how to they differ from one another? What is truly invariant across them?  
