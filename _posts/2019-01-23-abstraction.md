@@ -14,7 +14,7 @@ Great thinkers learn to abstract, and in so doing create entirely new concepts t
 
 What is the most general version of your solution? Of your problem? Of your idea?
 
-By what mechanism causes your favorite technique work? And with that causal mechanism in mind, what other techniques can leverage it? And immediately you go from having one technique to having a stable of techniques, unified by their mechanism.
+By what mechanism causes your favorite technique work? What is the why behind it? And with that causal mechanism in mind, what other techniques can leverage it? And immediately you go from having one technique to having a stable of techniques, unified by their mechanism.
 
 Can you map your problem to a more general representation (ex., from the internet to a graph, or from your leadership structure to a hierarchy) which will let you leverage bodies of existing solutions?
 
