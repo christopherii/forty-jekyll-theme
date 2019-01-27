@@ -71,12 +71,12 @@ nav-menu: true
 	</section>
 		<section>
 		<a href="generic.html" class="image">
-			<img src="assets/images/pic09.jpg" alt="" data-position="top center" />
+			<img src="assets/images/pic11.jpg" alt="" data-position="top center" />
 		</a>
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3><a href="https://www.syscreativity.com/2019/01/27/questioning-assumptions-reframe">Questioning Assumptions / Reframing</a></h3>
+					<h3><a href="https://www.syscreativity.com/2019/01/27/questioning-assumptions-reframe">Questioning Assumptions & Reframing</a></h3>
 				</header>
 				<p>Our minds implicitly assume a solution space. This solution space may not be optimal. We can reframe the solution space by discovering and unthinking our assumptions.</p>
 				<ul class="actions">
