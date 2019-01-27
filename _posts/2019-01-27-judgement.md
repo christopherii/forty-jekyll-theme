@@ -2,7 +2,7 @@
 layout: post
 title: Judgement / Triage / Prioritization
 description: Judgement / Triage / Prioritization
-image: assets/images/pic14.jpg
+image: assets/images/pic04.jpg
 ---
 
 1. Put a hard constraint on the time you’ll take to make a decision.

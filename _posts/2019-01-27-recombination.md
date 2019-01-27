@@ -2,11 +2,8 @@
 layout: post
 title: Recombination
 description: Recombination
-image: assets/images/pic13.jpg
+image: assets/images/pic03.jpg
 ---
-
-Recombination
-
 Recombination is a fabulous generator of ideas. Take existing concepts and ask how are they related, how can they be combined. Walk away with new conceptions.
 
 For example, combining evolution and identity leads to considering sub-personalities in a selection context for mindshare, each attempting to shape the world for the benefit of itself. Combining evolution and ideas gives you memetics. The hierarchical structure of most ideas allows for meaningful recombinations, and often the rediscovery of critical concepts.
