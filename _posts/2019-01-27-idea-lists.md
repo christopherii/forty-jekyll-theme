@@ -1,0 +1,58 @@
+---
+layout: post
+title: Idea Lists
+description: Idea Lists
+image: assets/images/pic10.jpg
+---
+
+Idea Listing:  
+-Choose a topic to generate 10 ideas over.
+-10m Time Constraint. Start timer.  
+-Fill to 10 ideas. Let quality fall if time becomes a limiting factor.  
+-Optimize for both expected value of the idea and for its novelty
+-Novelty - Novelty is great but not necessary. Feel free to dial this down as time goes on.
+<br>  
+
+---
+<br>
+
+Mechanics:
+The time constraint accomplishes a number of important things.
+1. Creates the freedom to let all other thoughts, worries and mental activity be released temporarily. The time being explicitly set aside for one task is permission to let go of open loops, freeing those slots in working memory for the task.
+2. Activates an action-oriented mode, a creation rather than consumption mode.
+3. Is a step of momentum towards taking productive action
+4. Creates freedom from other people - they either see it, or you feel comfortable letting them know that you're busy (but only temporarily, making it feel acceptable).
+
+
+<br>  
+
+---
+<br>
+
+Examples:  
+Demonstrate list of idea lists  
+For Research: [Types of Temporal Structure]  
+For Conversation: [Interesting Facts in Machine Learning (Linear Regression)]  
+For an Idea: [Memetics]  
+For Emotion: [Ways to Induce Anger]  
+For ML: [Machine Intelligence Contrarian]  
+For Creativity: [17-04-08 Systematizing Creativity]  
+For Learning: [Ideas for Learning ML/AI (2015)]  
+<br>  
+
+---
+- Credit to James Altucher for this technique!
+
+[Types of Temporal Structure]: https://docs.google.com/document/d/1zK8KwdWM5DtxFdD_NOHmAhUclLzh_ohkbRWR_CRmp8E/edit?usp=sharing
+
+[Interesting Facts in Machine Learning (Linear Regression)]:https://docs.google.com/document/d/1H9o89AP_9oqzVuYPzUWo4zNB-xVxRf05EL6GOA8AamA/edit?usp=sharing
+
+[Memetics]:https://docs.google.com/document/d/1kT5WG2DfAIZKntcEw3-OHvEDulG_lyPNDfsOSMxPsw8/edit?usp=sharing
+
+[Ways to Induce Anger]: https://docs.google.com/document/d/13sV_25TjB5376ErdwAIfJ7imHdGH6J7IQ-niqTdjkjk/edit?usp=sharing
+
+[Machine Intelligence Contrarian]: https://docs.google.com/document/d/1cpiNNO9WOGyzQ1M_tK-cZv4dH35EBV-CU_ZTv58zxls/edit?usp=sharing
+
+[17-04-08 Systematizing Creativity]: https://docs.google.com/document/d/1Dw6FZ_Kx2SRXO8O4aygmH0XxItZrLNjMAabozZ0xhXo/edit?usp=sharing
+
+[Ideas for Learning ML/AI (2015)]: https://docs.google.com/document/d/1JRhjtXJyhO9tXfjcEVRFE7ZMGD2UFHqPb8VRsPXAyFs/edit?usp=sharing
