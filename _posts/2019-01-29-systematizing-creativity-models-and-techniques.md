@@ -44,7 +44,6 @@ _Techniques_
             - [Hypnagogia](https://en.wikipedia.org/wiki/Hypnagogia)
         - Meditation
             - Sit in silence with the target as an object  
-  	<br>
 
     ---
     <br>
@@ -59,7 +58,6 @@ _Techniques_
     - List solutions to a problem and generalize
     - List related problems and generalize from their solutions  
     - Operating over your operators
-  	<br>
 
     ---
     <br>
@@ -68,7 +66,6 @@ _Techniques_
     - Idea List for concept set
     - Run recombination over generated concepts
         8. Hold the concepts in mind, asking how they relate to one another  
-  	<br>
 
     ---
     <br>
@@ -83,7 +80,6 @@ _Techniques_
         - Go into diffuse mode over an idea list, with no time limit
         - Create a huge list (with a low barrier to idea entry) and prune it
             - This resolves the psychological conflict between creative ideation and rigor / quality  
-  	<br>
 
     ---
     <br>
@@ -95,7 +91,6 @@ _Techniques_
     - Mutually Exclusive, Collectively Exhaustive
     - Deconstruction + Optimization
     - Actually do science ‘to split’  
-  	<br>
 
     ---
     <br>
@@ -104,14 +99,12 @@ _Techniques_
     - Randomize. Generate random ideas by specifying some parameters, and make them work / use them as prompts.
     - Randomly show words that serve as prompts
     - Stream of Consciousness  
-  	<br>
 
     ---
     <br>
 
 7. __Idea Mapping, Graphs of Relationships between Ideas__
     - Create a graph of the relationships between critical ideas in a space  
-  	<br>
 
     ---
     <br>
@@ -130,7 +123,6 @@ _Techniques_
     - What is the meta level idea?
     - What questions do I have about this?
     - What would other people think of?  
-  	<br>
 
     ---
     <br>
@@ -174,7 +166,6 @@ _Techniques_
         - Predicting what someone will say and 
             - Then asking them, for interesting feedback
     - What? / Why? / How?  
-  	<br>
 
     ---
     <br>
@@ -184,7 +175,6 @@ _Techniques_
         - Multiple frames - think at lower and higher levels of analysis, simultaneously. Ask how they interact.
     - Meta-object two space
         - Simultaneously optimizing the object and the meta level  
-  	<br>
 
     ---
     <br>
@@ -192,13 +182,11 @@ _Techniques_
 11. __Think ground up, from first principles__
     - Ask what the underlying goal is for a space, and for what solutions would serve that goal. For each solution, think of the components necessary to make that solution happen.
         - What are the basic principles of x?
-  	<br>
 
     ---
     <br>
 
 12. __Automation__ [[See Expanded Version](https://docs.google.com/document/d/10e4BJO_krtuSB0vI5Yo7KL98iFFeONCGZPaIFsCa8AM/edit?usp=sharing)]  
-  	<br>
 
     ---
     <br>
@@ -210,7 +198,6 @@ _Techniques_
     - Create imminent desire for coming up with relevant ideas
     - System 1 + Generalization
         - Take an intuitive response and understand its mechanism. Turn the mechanism into a generator.  
-  	<br>
 
     ---
     <br>
@@ -218,7 +205,6 @@ _Techniques_
 14. __Invert__
     - Take any technique, and do the opposite over some parameter
     - Imagine ways of not doing it, or preventing the goal from being reached: adversarial  
-  	<br>
 
     ---
     <br>
@@ -232,7 +218,6 @@ _Techniques_
     - Drawing
     - Giving a speech to the air
     - Improv Games  
-  	<br>
 
     ---
     <br>
