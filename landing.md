@@ -1,7 +1,7 @@
 ---
 title: Workbook
 layout: landing
-description: 'Prepared, for the moment<br /> when your must replace your creator.'
+description: 'Prepared, for the moment<br /> when your must replace your reality.'
 image: assets/images/pic07.jpg
 nav-menu: true
 ---
