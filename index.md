@@ -32,8 +32,5 @@ _Categories of Technique_
 ---
 <br>
 
-<!-- ![Moment of Creation]({{ "/assets/images/Creative-Hand.jpg" | absolute_url }}) -->
-<p><a target="_blank" href="https://www.syscreativity.com/assets/images/Creative-Hand-Blue.jpg"><img src="https://www.syscreativity.com/assets/images/Creative-Hand-Blue.jpg" alt="Moment of Creation" style="max-width:100%;"></a></p>
-
 
 By decomposing the processes that generate your most valuable thoughts and breakthroughs, you can design a powerful conceptual toolkit aligned with your current creative style.

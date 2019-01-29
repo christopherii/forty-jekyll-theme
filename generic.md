@@ -14,18 +14,19 @@ We’re building a structure for knowledge about creativity. Decomposing creativ
 One fascinating experience is to carefully watch a brilliant mind generate creative ideas, and then to 1. through seeing patterns and similarities among the generated ideas, categorize them and 2. create categories for the thought processes or mental motions that generated the ideas.
 
 Quality examples of mental motions include:  
-- ‘Control’ - How do I get control over the structure / situation at hand?  
-- Abstract & Generalization, Transfer - What is the most general form of this - idea? What other cases can this apply to?  
+- Identify the generator of the thought or intuition - why did this person think that thought?  
+- Abstract & Generalization - What is the most general form of this - idea?   
+- Skeptical - in what ways is this untrue, unlikely, wrong or broken?
 - Decompose - Ex., Break the concept down into its sub-concepts, break a situation into sub-cases, or add nuance through introducing a conditional.  
-- Assumption Questioning  
-    * Ontology / Paradigm Questioning (There’s an interconnected memeplex of assumptions)  
-    * Breakdown of Categories (seeing their brokenness, oneness, or decomposition) 
 - Relatedness / Transfer / Cognitive Fit with something else  
 - Prediction / Anticipation of outcome  
+- ‘Control’ - How do I get control over the structure / situation at hand?  
 - Understand - Explain a part of the system that I don’t know about, resulting from a failed prediction or a sparse decomposition that I want filled  
-- Identify the generator of the thought or intuition - why did this person think that thought?  
 - Distinction (or introduce conditional)  
 - Actions Taken as a Result  
+- Assumption Questioning  
+    * Ontology / Paradigm Questioning (There’s an interconnected memeplex of assumptions)
+    * Breakdown of Categories (seeing their brokenness, oneness, or decomposition)
 
 
 We can describe a thinking style as having a prediliction towards particular mental motions. That distribution over patterns of thought categories creates a space of thinking styles that can be navigated, explored, and expanded.
